@@ -14,3 +14,6 @@ You do need pyautogui for this to work, this code (so far) has been optimized to
 
 # Short explaination thing idk really...
 This code works by typing the most common letters first and the least common last, hundreds of times in a second, in a single command, this dramatically reduces the time between letters. Will release a short video on the [YouTube Channel](https://www.youtube.com/channel/UCU85Z-39Q67jL2eUUgkooTQ)
+
+# Proof
+![Well there was supposed to have an image right here where you are reading this very text, I guess what you have to do is to reload the page or something?](/proof.png)
