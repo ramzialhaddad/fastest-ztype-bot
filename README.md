@@ -1,3 +1,5 @@
+![There is a cool gif here so reload the page thanks <3](/demo.gif)
+
 # The Fastest Ztype Bot
 Currently holding the (unofficial) world record of the fastest Ztype Bot.
 
